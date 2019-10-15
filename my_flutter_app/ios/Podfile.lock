@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - surveymonkey-ios-sdk (2.0.4)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - surveymonkey-ios-sdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - surveymonkey-ios-sdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  surveymonkey-ios-sdk: 974f5b54687df43edf63253f6de8da035237e15f
+
+PODFILE CHECKSUM: 98d9a460ad1c44a7a1a9a71eb2293e06e67b3f99
+
+COCOAPODS: 1.6.1
