@@ -5,7 +5,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 class HomePage extends StatelessWidget {
   static const platform =
       const MethodChannel('com.Rahim.myFlutterApp/surveyMonkey');
-  static String sessionSurveyMonkeyHash = 'TKB7NT5';
+  static String sessionSurveyMonkeyHash = 'YOUR_SURVEY_HASH_HERE';
 
   Future _loadSurveyMonkey() async {
     try {
